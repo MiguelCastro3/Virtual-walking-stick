@@ -13,13 +13,11 @@ Creation of a virtual cane (embedded system), without contact with the ground, i
 ![Sem Título](https://user-images.githubusercontent.com/66881028/84805183-c67db280-affb-11ea-938a-ba4f84767e89.png)
 
 **FILES:** 
-
-* [Interface_BA.m](https://github.com/MiguelCastro3/Monitoring-a-person-s-acceleration/blob/master/Interface_BA.m) - code for the acquisition of the accelerometer signals (3 channels), processing and conversion of the signals and sending to the computer via the serial port.
-* [main.asm](https://github.com/MiguelCastro3/Monitoring-a-person-s-acceleration/blob/master/main.asm) - code referring to the processing of signals received from the microntroller and repetitive display through a previously created interface.
-
+* [Circuito esquemático da bengala.fzz](https://github.com/MiguelCastro3/Monitoring-a-person-s-acceleration/blob/master/main.asm) - schematic circuit used to connect the Arduino to the various electronic components used for the virtual globe.
+* [codigo_bengala.ino](https://github.com/MiguelCastro3/Monitoring-a-person-s-acceleration/blob/master/main.asm) - code for signal acquisition and processing and respective alarm decision to notify the user.
+* [Case bengala - base.ipt](https://github.com/MiguelCastro3/Virtual-walking-stick/blob/master/Case%20bengala%20-%20base.ipt) - Solidworks file with the drawing of the lower part of the case prototype.
+* [Case bengala - top.ipt](https://github.com/MiguelCastro3/Monitoring-a-person-s-acceleration/blob/master/main.asm) - Solidworks file with the drawing of the upper part of the case prototype.
 
 **RESULTS:** 
 
-[video_project_real_time.zip](https://github.com/MiguelCastro3/Monitoring-a-person-s-acceleration/files/4782737/video_project_real_time.zip) - short video showing the operation of the interface, in real time, in the acquisition and respective display of the acquired signals from the accelerometer.
-
-![Sem Título](https://user-images.githubusercontent.com/66881028/84701968-cf17af80-af4d-11ea-9e2f-c6169008d918.png)
+![Sem Título](https://user-images.githubusercontent.com/66881028/84807205-ccc15e00-affe-11ea-8e53-c27e4205460c.png)
