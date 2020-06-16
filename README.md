@@ -1,17 +1,16 @@
 # Virtual-walking-stick
 **PROJECT:** 
 
-Implementation of an embedded system capable of measuring the accelerations resulting from a person's leg, using an accelerometer.
-
+Creation of a virtual cane (embedded system), without contact with the ground, in order to assist the gait of a blind person.
 
 **STEPS:** 
 
-* Construction of the acquisition circuit for the accelerometer
-* Programming the 324A microcontroller for signal processing
-* Development of an interface for viewing acquired signals
+* Construction of the schematic circuit of the project, which included: Arduino, ultrasonic sensor, two types of alarms (audible and vibrating) and power supply
+* Arduino programming, in C ++, for signal processing and respective appropriate response
+* Development of a prototype case to protect the entire circuit
 
 **SCHEMATIC CIRCUIT:**
-![ATMEGA324A ligações](https://user-images.githubusercontent.com/66881028/84780506-90c9d100-afdd-11ea-9515-69c7dad7ffc9.PNG)
+![Sem Título](https://user-images.githubusercontent.com/66881028/84805183-c67db280-affb-11ea-938a-ba4f84767e89.png)
 
 **FILES:** 
 
