@@ -5,9 +5,9 @@ Creation of a virtual cane (embedded system), without contact with the ground, i
 
 **STEPS:** 
 
-* Construction of the schematic circuit of the project, which included: Arduino, ultrasonic sensor, two types of alarms (audible and vibrating) and power supply
-* Arduino programming, in C ++, for signal processing and respective appropriate response
-* Development of a prototype case to protect the entire circuit
+* Construction of the schematic circuit of the project, which included: Arduino, ultrasonic sensor, two types of alarms (audible and vibrating) and power supply;
+* Arduino programming, in C ++, for signal processing and respective appropriate response;
+* Development of a prototype case to protect the entire circuit.
 
 **SCHEMATIC CIRCUIT:**
 ![Sem Título](https://user-images.githubusercontent.com/66881028/84805183-c67db280-affb-11ea-938a-ba4f84767e89.png)
