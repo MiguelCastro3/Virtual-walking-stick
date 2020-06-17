@@ -1,5 +1,4 @@
 # Virtual walking stick
-
 **PROJECT:** 
 
 Creation of a virtual cane (embedded system), without contact with the ground, in order to assist the gait of a blind person.
